@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArmanFFT</string>
+    <string name="display_toast_message">Display Toast Message</string>
+</resources>
